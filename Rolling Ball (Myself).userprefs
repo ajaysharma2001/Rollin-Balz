@@ -1,0 +1,14 @@
+﻿<Properties StartupItem="Assembly-CSharp.csproj">
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" PreferredExecutionTarget="Unity.Instance.Unity Editor" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/Scrips/LevelUnlock/Level2.cs">
+    <Files>
+      <File FileName="Assets/Scrips/PlayerController.cs" Line="137" Column="38" />
+      <File FileName="Assets/Scrips/LevelUnlock/Level3.cs" Line="10" Column="77" />
+      <File FileName="Assets/Scrips/LevelUnlock/Level2.cs" Line="12" Column="26" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>

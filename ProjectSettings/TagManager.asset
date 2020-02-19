@@ -1,0 +1,64 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - Level 2
+  - Pick Up
+  - Level 1
+  - Level 3
+  - Level 4
+  - Level 5
+  - Rotate
+  - die
+  - Buy 1
+  - Buy 2
+  - Buy 3
+  - Buy 4
+  - Buy 5
+  - Buy 6
+  - Equip1
+  - Equip2
+  - Equip3
+  - Equip4
+  - Equip5
+  - Equip6
+  - Win
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
